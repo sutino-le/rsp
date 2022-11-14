@@ -1,0 +1,461 @@
+CRITICAL - 2022-11-13 19:16:22 --> Invalid file: main/layout.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('main/layout.php')
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('main/layout', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('main/layout')
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-13 20:08:59 --> Undefined variable $json
+in APPPATH\Controllers\AdmAuth.php on line 101.
+ 1 APPPATH\Controllers\AdmAuth.php(101): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $json', 'APPPATH\\Controllers\\AdmAuth.php', 101)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-13 20:09:00 --> Undefined variable $json
+in APPPATH\Controllers\AdmAuth.php on line 101.
+ 1 APPPATH\Controllers\AdmAuth.php(101): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $json', 'APPPATH\\Controllers\\AdmAuth.php', 101)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-13 20:09:00 --> Undefined variable $json
+in APPPATH\Controllers\AdmAuth.php on line 101.
+ 1 APPPATH\Controllers\AdmAuth.php(101): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $json', 'APPPATH\\Controllers\\AdmAuth.php', 101)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-13 20:09:01 --> Undefined variable $json
+in APPPATH\Controllers\AdmAuth.php on line 101.
+ 1 APPPATH\Controllers\AdmAuth.php(101): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $json', 'APPPATH\\Controllers\\AdmAuth.php', 101)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-13 20:09:01 --> Undefined variable $json
+in APPPATH\Controllers\AdmAuth.php on line 101.
+ 1 APPPATH\Controllers\AdmAuth.php(101): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $json', 'APPPATH\\Controllers\\AdmAuth.php', 101)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-13 20:09:13 --> Undefined variable $json
+in APPPATH\Controllers\AdmAuth.php on line 101.
+ 1 APPPATH\Controllers\AdmAuth.php(101): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $json', 'APPPATH\\Controllers\\AdmAuth.php', 101)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-13 20:09:15 --> Undefined variable $json
+in APPPATH\Controllers\AdmAuth.php on line 101.
+ 1 APPPATH\Controllers\AdmAuth.php(101): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $json', 'APPPATH\\Controllers\\AdmAuth.php', 101)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-13 20:09:15 --> Undefined variable $json
+in APPPATH\Controllers\AdmAuth.php on line 101.
+ 1 APPPATH\Controllers\AdmAuth.php(101): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $json', 'APPPATH\\Controllers\\AdmAuth.php', 101)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-13 20:09:15 --> Undefined variable $json
+in APPPATH\Controllers\AdmAuth.php on line 101.
+ 1 APPPATH\Controllers\AdmAuth.php(101): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $json', 'APPPATH\\Controllers\\AdmAuth.php', 101)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-13 20:09:16 --> Undefined variable $json
+in APPPATH\Controllers\AdmAuth.php on line 101.
+ 1 APPPATH\Controllers\AdmAuth.php(101): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $json', 'APPPATH\\Controllers\\AdmAuth.php', 101)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-13 20:09:17 --> Undefined variable $json
+in APPPATH\Controllers\AdmAuth.php on line 101.
+ 1 APPPATH\Controllers\AdmAuth.php(101): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $json', 'APPPATH\\Controllers\\AdmAuth.php', 101)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-13 20:09:29 --> Undefined variable $json
+in APPPATH\Controllers\AdmAuth.php on line 101.
+ 1 APPPATH\Controllers\AdmAuth.php(101): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $json', 'APPPATH\\Controllers\\AdmAuth.php', 101)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-13 20:09:30 --> Undefined variable $json
+in APPPATH\Controllers\AdmAuth.php on line 101.
+ 1 APPPATH\Controllers\AdmAuth.php(101): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $json', 'APPPATH\\Controllers\\AdmAuth.php', 101)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-13 20:38:56 --> Undefined variable $json
+in APPPATH\Controllers\AdmAuth.php on line 119.
+ 1 APPPATH\Controllers\AdmAuth.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $json', 'APPPATH\\Controllers\\AdmAuth.php', 119)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-13 20:41:34 --> Undefined variable $json
+in APPPATH\Controllers\AdmAuth.php on line 119.
+ 1 APPPATH\Controllers\AdmAuth.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $json', 'APPPATH\\Controllers\\AdmAuth.php', 119)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-13 20:41:35 --> Undefined variable $json
+in APPPATH\Controllers\AdmAuth.php on line 119.
+ 1 APPPATH\Controllers\AdmAuth.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $json', 'APPPATH\\Controllers\\AdmAuth.php', 119)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-13 20:50:01 --> mysqli_sql_exception: Unknown column 'updated_at' in 'field list' in C:\xampp\htdocs\rsp\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\rsp\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `us...', 0)
+#1 C:\xampp\htdocs\rsp\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `us...')
+#2 C:\xampp\htdocs\rsp\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `us...')
+#3 C:\xampp\htdocs\rsp\system\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#4 C:\xampp\htdocs\rsp\system\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\rsp\system\BaseModel.php(749): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\rsp\system\Model.php(667): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\rsp\app\Controllers\AdmAuth.php(111): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\rsp\system\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+#9 C:\xampp\htdocs\rsp\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+#10 C:\xampp\htdocs\rsp\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\rsp\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-11-13 20:50:01 --> Unknown column 'updated_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (\'sutino@gmail.com\', \'Sutino\', \'1808051201920006\', \'40bd001563085fc35165329ea1ff5c5ecbdbbeef\', 2, \'Progres\', \'2022-11-13 20:50:01\', \'2022-11-13 20:50:01\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (\'sutino@gmail.com\', \'Sutino\', \'1808051201920006\', \'40bd001563085fc35165329ea1ff5c5ecbdbbeef\', 2, \'Progres\', \'2022-11-13 20:50:01\', \'2022-11-13 20:50:01\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (\'sutino@gmail.com\', \'Sutino\', \'1808051201920006\', \'40bd001563085fc35165329ea1ff5c5ecbdbbeef\', 2, \'Progres\', \'2022-11-13 20:50:01\', \'2022-11-13 20:50:01\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (:userid:, :usernama:, :userktp:, :userpassword:, :userlevel:, :userverify:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(749): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(667): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\AdmAuth.php(111): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+10 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+11 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-13 20:50:05 --> mysqli_sql_exception: Unknown column 'updated_at' in 'field list' in C:\xampp\htdocs\rsp\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\rsp\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `us...', 0)
+#1 C:\xampp\htdocs\rsp\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `us...')
+#2 C:\xampp\htdocs\rsp\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `us...')
+#3 C:\xampp\htdocs\rsp\system\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#4 C:\xampp\htdocs\rsp\system\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\rsp\system\BaseModel.php(749): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\rsp\system\Model.php(667): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\rsp\app\Controllers\AdmAuth.php(111): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\rsp\system\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+#9 C:\xampp\htdocs\rsp\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+#10 C:\xampp\htdocs\rsp\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\rsp\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-11-13 20:50:05 --> Unknown column 'updated_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (\'sutino@gmail.com\', \'Sutino\', \'1808051201920006\', \'40bd001563085fc35165329ea1ff5c5ecbdbbeef\', 2, \'Progres\', \'2022-11-13 20:50:05\', \'2022-11-13 20:50:05\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (\'sutino@gmail.com\', \'Sutino\', \'1808051201920006\', \'40bd001563085fc35165329ea1ff5c5ecbdbbeef\', 2, \'Progres\', \'2022-11-13 20:50:05\', \'2022-11-13 20:50:05\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (\'sutino@gmail.com\', \'Sutino\', \'1808051201920006\', \'40bd001563085fc35165329ea1ff5c5ecbdbbeef\', 2, \'Progres\', \'2022-11-13 20:50:05\', \'2022-11-13 20:50:05\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (:userid:, :usernama:, :userktp:, :userpassword:, :userlevel:, :userverify:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(749): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(667): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\AdmAuth.php(111): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+10 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+11 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-13 20:50:16 --> mysqli_sql_exception: Unknown column 'updated_at' in 'field list' in C:\xampp\htdocs\rsp\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\rsp\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `us...', 0)
+#1 C:\xampp\htdocs\rsp\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `us...')
+#2 C:\xampp\htdocs\rsp\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `us...')
+#3 C:\xampp\htdocs\rsp\system\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#4 C:\xampp\htdocs\rsp\system\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\rsp\system\BaseModel.php(749): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\rsp\system\Model.php(667): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\rsp\app\Controllers\AdmAuth.php(111): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\rsp\system\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+#9 C:\xampp\htdocs\rsp\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+#10 C:\xampp\htdocs\rsp\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\rsp\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-11-13 20:50:16 --> Unknown column 'updated_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (\'sutino@gmail.com\', \'Sutino\', \'1808051201920002\', \'40bd001563085fc35165329ea1ff5c5ecbdbbeef\', 2, \'Progres\', \'2022-11-13 20:50:16\', \'2022-11-13 20:50:16\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (\'sutino@gmail.com\', \'Sutino\', \'1808051201920002\', \'40bd001563085fc35165329ea1ff5c5ecbdbbeef\', 2, \'Progres\', \'2022-11-13 20:50:16\', \'2022-11-13 20:50:16\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (\'sutino@gmail.com\', \'Sutino\', \'1808051201920002\', \'40bd001563085fc35165329ea1ff5c5ecbdbbeef\', 2, \'Progres\', \'2022-11-13 20:50:16\', \'2022-11-13 20:50:16\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (:userid:, :usernama:, :userktp:, :userpassword:, :userlevel:, :userverify:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(749): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(667): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\AdmAuth.php(111): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+10 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+11 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-13 20:50:17 --> mysqli_sql_exception: Unknown column 'updated_at' in 'field list' in C:\xampp\htdocs\rsp\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\rsp\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `us...', 0)
+#1 C:\xampp\htdocs\rsp\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `us...')
+#2 C:\xampp\htdocs\rsp\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `us...')
+#3 C:\xampp\htdocs\rsp\system\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#4 C:\xampp\htdocs\rsp\system\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\rsp\system\BaseModel.php(749): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\rsp\system\Model.php(667): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\rsp\app\Controllers\AdmAuth.php(111): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\rsp\system\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+#9 C:\xampp\htdocs\rsp\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+#10 C:\xampp\htdocs\rsp\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\rsp\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-11-13 20:50:17 --> Unknown column 'updated_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (\'sutino@gmail.com\', \'Sutino\', \'1808051201920002\', \'40bd001563085fc35165329ea1ff5c5ecbdbbeef\', 2, \'Progres\', \'2022-11-13 20:50:17\', \'2022-11-13 20:50:17\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (\'sutino@gmail.com\', \'Sutino\', \'1808051201920002\', \'40bd001563085fc35165329ea1ff5c5ecbdbbeef\', 2, \'Progres\', \'2022-11-13 20:50:17\', \'2022-11-13 20:50:17\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (\'sutino@gmail.com\', \'Sutino\', \'1808051201920002\', \'40bd001563085fc35165329ea1ff5c5ecbdbbeef\', 2, \'Progres\', \'2022-11-13 20:50:17\', \'2022-11-13 20:50:17\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (:userid:, :usernama:, :userktp:, :userpassword:, :userlevel:, :userverify:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(749): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(667): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\AdmAuth.php(111): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+10 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+11 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-13 20:50:17 --> mysqli_sql_exception: Unknown column 'updated_at' in 'field list' in C:\xampp\htdocs\rsp\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\rsp\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `us...', 0)
+#1 C:\xampp\htdocs\rsp\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `us...')
+#2 C:\xampp\htdocs\rsp\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `us...')
+#3 C:\xampp\htdocs\rsp\system\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#4 C:\xampp\htdocs\rsp\system\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\rsp\system\BaseModel.php(749): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\rsp\system\Model.php(667): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\rsp\app\Controllers\AdmAuth.php(111): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\rsp\system\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+#9 C:\xampp\htdocs\rsp\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+#10 C:\xampp\htdocs\rsp\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\rsp\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-11-13 20:50:17 --> Unknown column 'updated_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (\'sutino@gmail.com\', \'Sutino\', \'1808051201920002\', \'40bd001563085fc35165329ea1ff5c5ecbdbbeef\', 2, \'Progres\', \'2022-11-13 20:50:17\', \'2022-11-13 20:50:17\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (\'sutino@gmail.com\', \'Sutino\', \'1808051201920002\', \'40bd001563085fc35165329ea1ff5c5ecbdbbeef\', 2, \'Progres\', \'2022-11-13 20:50:17\', \'2022-11-13 20:50:17\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (\'sutino@gmail.com\', \'Sutino\', \'1808051201920002\', \'40bd001563085fc35165329ea1ff5c5ecbdbbeef\', 2, \'Progres\', \'2022-11-13 20:50:17\', \'2022-11-13 20:50:17\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (:userid:, :usernama:, :userktp:, :userpassword:, :userlevel:, :userverify:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(749): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(667): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\AdmAuth.php(111): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+10 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+11 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-13 20:50:18 --> mysqli_sql_exception: Unknown column 'updated_at' in 'field list' in C:\xampp\htdocs\rsp\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\rsp\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `us...', 0)
+#1 C:\xampp\htdocs\rsp\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `us...')
+#2 C:\xampp\htdocs\rsp\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `us...')
+#3 C:\xampp\htdocs\rsp\system\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#4 C:\xampp\htdocs\rsp\system\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\rsp\system\BaseModel.php(749): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\rsp\system\Model.php(667): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\rsp\app\Controllers\AdmAuth.php(111): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\rsp\system\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+#9 C:\xampp\htdocs\rsp\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+#10 C:\xampp\htdocs\rsp\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\rsp\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-11-13 20:50:18 --> Unknown column 'updated_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (\'sutino@gmail.com\', \'Sutino\', \'1808051201920002\', \'40bd001563085fc35165329ea1ff5c5ecbdbbeef\', 2, \'Progres\', \'2022-11-13 20:50:18\', \'2022-11-13 20:50:18\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (\'sutino@gmail.com\', \'Sutino\', \'1808051201920002\', \'40bd001563085fc35165329ea1ff5c5ecbdbbeef\', 2, \'Progres\', \'2022-11-13 20:50:18\', \'2022-11-13 20:50:18\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (\'sutino@gmail.com\', \'Sutino\', \'1808051201920002\', \'40bd001563085fc35165329ea1ff5c5ecbdbbeef\', 2, \'Progres\', \'2022-11-13 20:50:18\', \'2022-11-13 20:50:18\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (:userid:, :usernama:, :userktp:, :userpassword:, :userlevel:, :userverify:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(749): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(667): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\AdmAuth.php(111): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+10 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+11 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-13 20:50:18 --> mysqli_sql_exception: Unknown column 'updated_at' in 'field list' in C:\xampp\htdocs\rsp\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\rsp\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `us...', 0)
+#1 C:\xampp\htdocs\rsp\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `us...')
+#2 C:\xampp\htdocs\rsp\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `us...')
+#3 C:\xampp\htdocs\rsp\system\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#4 C:\xampp\htdocs\rsp\system\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\rsp\system\BaseModel.php(749): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\rsp\system\Model.php(667): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\rsp\app\Controllers\AdmAuth.php(111): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\rsp\system\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+#9 C:\xampp\htdocs\rsp\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+#10 C:\xampp\htdocs\rsp\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\rsp\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-11-13 20:50:18 --> Unknown column 'updated_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (\'sutino@gmail.com\', \'Sutino\', \'1808051201920002\', \'40bd001563085fc35165329ea1ff5c5ecbdbbeef\', 2, \'Progres\', \'2022-11-13 20:50:18\', \'2022-11-13 20:50:18\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (\'sutino@gmail.com\', \'Sutino\', \'1808051201920002\', \'40bd001563085fc35165329ea1ff5c5ecbdbbeef\', 2, \'Progres\', \'2022-11-13 20:50:18\', \'2022-11-13 20:50:18\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (\'sutino@gmail.com\', \'Sutino\', \'1808051201920002\', \'40bd001563085fc35165329ea1ff5c5ecbdbbeef\', 2, \'Progres\', \'2022-11-13 20:50:18\', \'2022-11-13 20:50:18\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (:userid:, :usernama:, :userktp:, :userpassword:, :userlevel:, :userverify:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(749): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(667): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\AdmAuth.php(111): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+10 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+11 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-13 20:50:19 --> mysqli_sql_exception: Unknown column 'updated_at' in 'field list' in C:\xampp\htdocs\rsp\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\rsp\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `us...', 0)
+#1 C:\xampp\htdocs\rsp\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `us...')
+#2 C:\xampp\htdocs\rsp\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `us...')
+#3 C:\xampp\htdocs\rsp\system\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#4 C:\xampp\htdocs\rsp\system\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\rsp\system\BaseModel.php(749): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\rsp\system\Model.php(667): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\rsp\app\Controllers\AdmAuth.php(111): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\rsp\system\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+#9 C:\xampp\htdocs\rsp\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+#10 C:\xampp\htdocs\rsp\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\rsp\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-11-13 20:50:19 --> Unknown column 'updated_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (\'sutino@gmail.com\', \'Sutino\', \'1808051201920002\', \'40bd001563085fc35165329ea1ff5c5ecbdbbeef\', 2, \'Progres\', \'2022-11-13 20:50:19\', \'2022-11-13 20:50:19\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (\'sutino@gmail.com\', \'Sutino\', \'1808051201920002\', \'40bd001563085fc35165329ea1ff5c5ecbdbbeef\', 2, \'Progres\', \'2022-11-13 20:50:19\', \'2022-11-13 20:50:19\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (\'sutino@gmail.com\', \'Sutino\', \'1808051201920002\', \'40bd001563085fc35165329ea1ff5c5ecbdbbeef\', 2, \'Progres\', \'2022-11-13 20:50:19\', \'2022-11-13 20:50:19\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (:userid:, :usernama:, :userktp:, :userpassword:, :userlevel:, :userverify:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(749): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(667): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\AdmAuth.php(111): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+10 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+11 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-13 20:51:09 --> mysqli_sql_exception: Unknown column 'updated_at' in 'field list' in C:\xampp\htdocs\rsp\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\rsp\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `us...', 0)
+#1 C:\xampp\htdocs\rsp\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `us...')
+#2 C:\xampp\htdocs\rsp\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `us...')
+#3 C:\xampp\htdocs\rsp\system\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#4 C:\xampp\htdocs\rsp\system\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\rsp\system\BaseModel.php(749): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\rsp\system\Model.php(667): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\rsp\app\Controllers\AdmAuth.php(112): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\rsp\system\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+#9 C:\xampp\htdocs\rsp\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+#10 C:\xampp\htdocs\rsp\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\rsp\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-11-13 20:51:09 --> Unknown column 'updated_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (\'sutino@gmail.com\', \'Sutino\', \'1808051201920002\', \'40bd001563085fc35165329ea1ff5c5ecbdbbeef\', 2, \'Progres\', \'2022-11-13 20:51:09\', \'2022-11-13 20:51:09\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (\'sutino@gmail.com\', \'Sutino\', \'1808051201920002\', \'40bd001563085fc35165329ea1ff5c5ecbdbbeef\', 2, \'Progres\', \'2022-11-13 20:51:09\', \'2022-11-13 20:51:09\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (\'sutino@gmail.com\', \'Sutino\', \'1808051201920002\', \'40bd001563085fc35165329ea1ff5c5ecbdbbeef\', 2, \'Progres\', \'2022-11-13 20:51:09\', \'2022-11-13 20:51:09\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (:userid:, :usernama:, :userktp:, :userpassword:, :userlevel:, :userverify:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(749): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(667): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\AdmAuth.php(112): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+10 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+11 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-13 20:51:37 --> mysqli_sql_exception: Unknown column 'updated_at' in 'field list' in C:\xampp\htdocs\rsp\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\rsp\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `us...', 0)
+#1 C:\xampp\htdocs\rsp\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `us...')
+#2 C:\xampp\htdocs\rsp\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `us...')
+#3 C:\xampp\htdocs\rsp\system\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#4 C:\xampp\htdocs\rsp\system\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\rsp\system\BaseModel.php(749): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\rsp\system\Model.php(667): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\rsp\app\Controllers\AdmAuth.php(112): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\rsp\system\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+#9 C:\xampp\htdocs\rsp\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+#10 C:\xampp\htdocs\rsp\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\rsp\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-11-13 20:51:37 --> Unknown column 'updated_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (\'sutino@gmail.com\', \'Sutino\', \'1808051201920002\', \'40bd001563085fc35165329ea1ff5c5ecbdbbeef\', 2, \'Progres\', \'2022-11-13 20:51:37\', \'2022-11-13 20:51:37\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (\'sutino@gmail.com\', \'Sutino\', \'1808051201920002\', \'40bd001563085fc35165329ea1ff5c5ecbdbbeef\', 2, \'Progres\', \'2022-11-13 20:51:37\', \'2022-11-13 20:51:37\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (\'sutino@gmail.com\', \'Sutino\', \'1808051201920002\', \'40bd001563085fc35165329ea1ff5c5ecbdbbeef\', 2, \'Progres\', \'2022-11-13 20:51:37\', \'2022-11-13 20:51:37\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (:userid:, :usernama:, :userktp:, :userpassword:, :userlevel:, :userverify:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(749): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(667): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\AdmAuth.php(112): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+10 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+11 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-13 20:57:27 --> mysqli_sql_exception: Duplicate entry '1808051201920006' for key 'userktp' in C:\xampp\htdocs\rsp\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\rsp\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `us...', 0)
+#1 C:\xampp\htdocs\rsp\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `us...')
+#2 C:\xampp\htdocs\rsp\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `us...')
+#3 C:\xampp\htdocs\rsp\system\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#4 C:\xampp\htdocs\rsp\system\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\rsp\system\BaseModel.php(749): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\rsp\system\Model.php(667): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\rsp\app\Controllers\AdmAuth.php(112): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\rsp\system\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+#9 C:\xampp\htdocs\rsp\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+#10 C:\xampp\htdocs\rsp\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\rsp\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-11-13 20:57:27 --> Duplicate entry '1808051201920006' for key 'userktp'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (\'sutinao@gmail.com\', \'Sutino\', \'1808051201920006\', \'40bd001563085fc35165329ea1ff5c5ecbdbbeef\', 2, \'Progres\', \'2022-11-13 20:57:27\', \'2022-11-13 20:57:27\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (\'sutinao@gmail.com\', \'Sutino\', \'1808051201920006\', \'40bd001563085fc35165329ea1ff5c5ecbdbbeef\', 2, \'Progres\', \'2022-11-13 20:57:27\', \'2022-11-13 20:57:27\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (\'sutinao@gmail.com\', \'Sutino\', \'1808051201920006\', \'40bd001563085fc35165329ea1ff5c5ecbdbbeef\', 2, \'Progres\', \'2022-11-13 20:57:27\', \'2022-11-13 20:57:27\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (:userid:, :usernama:, :userktp:, :userpassword:, :userlevel:, :userverify:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(749): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(667): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\AdmAuth.php(112): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+10 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+11 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-13 21:02:05 --> Call to undefined method App\Models\ModelUser::cekKtp
+in SYSTEMPATH\Model.php on line 774.
+ 1 APPPATH\Controllers\AdmAuth.php(107): CodeIgniter\Model->__call('cekKtp', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-13 21:03:53 --> Call to undefined method App\Models\ModelUser::cekKtp
+in SYSTEMPATH\Model.php on line 774.
+ 1 APPPATH\Controllers\AdmAuth.php(107): CodeIgniter\Model->__call('cekKtp', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-13 21:04:22 --> Call to undefined method App\Models\ModelUser::cekKtp
+in SYSTEMPATH\Model.php on line 774.
+ 1 APPPATH\Controllers\AdmAuth.php(107): CodeIgniter\Model->__call('cekKtp', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

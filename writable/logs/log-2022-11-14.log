@@ -1,0 +1,352 @@
+CRITICAL - 2022-11-14 00:54:42 --> Object of class App\Models\ModelUser could not be converted to int
+in APPPATH\Controllers\AdmAuth.php on line 109.
+ 1 APPPATH\Controllers\AdmAuth.php(109): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Object of class App\\Models\\ModelUser could not be converted to int', 'APPPATH\\Controllers\\AdmAuth.php', 109)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 00:55:10 --> Object of class App\Models\ModelUser could not be converted to int
+in APPPATH\Controllers\AdmAuth.php on line 109.
+ 1 APPPATH\Controllers\AdmAuth.php(109): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Object of class App\\Models\\ModelUser could not be converted to int', 'APPPATH\\Controllers\\AdmAuth.php', 109)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 00:56:30 --> Object of class App\Models\ModelUser could not be converted to int
+in APPPATH\Controllers\AdmAuth.php on line 109.
+ 1 APPPATH\Controllers\AdmAuth.php(109): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Object of class App\\Models\\ModelUser could not be converted to int', 'APPPATH\\Controllers\\AdmAuth.php', 109)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 01:00:40 --> Call to undefined method App\Models\ModelUser::getResultArray
+in SYSTEMPATH\Model.php on line 774.
+ 1 APPPATH\Controllers\AdmAuth.php(107): CodeIgniter\Model->__call('getResultArray', [])
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 01:00:55 --> Object of class CodeIgniter\Database\MySQLi\Result could not be converted to int
+in APPPATH\Controllers\AdmAuth.php on line 109.
+ 1 APPPATH\Controllers\AdmAuth.php(109): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Object of class CodeIgniter\\Database\\MySQLi\\Result could not be converted to int', 'APPPATH\\Controllers\\AdmAuth.php', 109)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 01:01:35 --> Call to undefined method App\Models\ModelUser::getRowArray
+in SYSTEMPATH\Model.php on line 774.
+ 1 APPPATH\Controllers\AdmAuth.php(107): CodeIgniter\Model->__call('getRowArray', [])
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 01:02:35 --> Cannot use object of type CodeIgniter\Database\MySQLi\Result as array
+in APPPATH\Controllers\AdmAuth.php on line 109.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 01:03:01 --> Cannot use object of type CodeIgniter\Database\MySQLi\Result as array
+in APPPATH\Controllers\AdmAuth.php on line 109.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 01:03:20 --> Cannot use object of type CodeIgniter\Database\MySQLi\Result as array
+in APPPATH\Controllers\AdmAuth.php on line 109.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 01:03:50 --> Cannot use object of type CodeIgniter\Database\MySQLi\Result as array
+in APPPATH\Controllers\AdmAuth.php on line 109.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 01:11:38 --> Undefined array key "userktp"
+in APPPATH\Controllers\AdmAuth.php on line 109.
+ 1 APPPATH\Controllers\AdmAuth.php(109): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "userktp"', 'APPPATH\\Controllers\\AdmAuth.php', 109)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 01:11:58 --> Undefined array key "userktp"
+in APPPATH\Controllers\AdmAuth.php on line 109.
+ 1 APPPATH\Controllers\AdmAuth.php(109): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "userktp"', 'APPPATH\\Controllers\\AdmAuth.php', 109)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 01:13:47 --> Undefined array key "userktp"
+in APPPATH\Controllers\AdmAuth.php on line 109.
+ 1 APPPATH\Controllers\AdmAuth.php(109): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "userktp"', 'APPPATH\\Controllers\\AdmAuth.php', 109)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 01:23:16 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::get()
+in APPPATH\Models\ModelUser.php on line 22.
+ 1 APPPATH\Controllers\AdmAuth.php(107): App\Models\ModelUser->cariUser('1808051201950003')
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 01:23:35 --> Undefined array key "userktp"
+in APPPATH\Controllers\AdmAuth.php on line 109.
+ 1 APPPATH\Controllers\AdmAuth.php(109): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "userktp"', 'APPPATH\\Controllers\\AdmAuth.php', 109)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 01:24:46 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::get()
+in APPPATH\Controllers\AdmAuth.php on line 107.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 01:25:25 --> Undefined array key "userktp"
+in APPPATH\Controllers\AdmAuth.php on line 109.
+ 1 APPPATH\Controllers\AdmAuth.php(109): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "userktp"', 'APPPATH\\Controllers\\AdmAuth.php', 109)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-14 01:28:35 --> mysqli_sql_exception: Duplicate entry '1808051201920006' for key 'userktp' in C:\xampp\htdocs\rsp\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\rsp\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `us...', 0)
+#1 C:\xampp\htdocs\rsp\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `us...')
+#2 C:\xampp\htdocs\rsp\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `us...')
+#3 C:\xampp\htdocs\rsp\system\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#4 C:\xampp\htdocs\rsp\system\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\rsp\system\BaseModel.php(749): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\rsp\system\Model.php(667): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\rsp\app\Controllers\AdmAuth.php(122): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\rsp\system\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+#9 C:\xampp\htdocs\rsp\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+#10 C:\xampp\htdocs\rsp\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\rsp\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-11-14 01:28:35 --> Duplicate entry '1808051201920006' for key 'userktp'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (\'sutinoadfad@gmail.com\', \'sutino\', \'1808051201920006\', \'40bd001563085fc35165329ea1ff5c5ecbdbbeef\', 2, \'Progres\', \'2022-11-14 01:28:35\', \'2022-11-14 01:28:35\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (\'sutinoadfad@gmail.com\', \'sutino\', \'1808051201920006\', \'40bd001563085fc35165329ea1ff5c5ecbdbbeef\', 2, \'Progres\', \'2022-11-14 01:28:35\', \'2022-11-14 01:28:35\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (\'sutinoadfad@gmail.com\', \'sutino\', \'1808051201920006\', \'40bd001563085fc35165329ea1ff5c5ecbdbbeef\', 2, \'Progres\', \'2022-11-14 01:28:35\', \'2022-11-14 01:28:35\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (:userid:, :usernama:, :userktp:, :userpassword:, :userlevel:, :userverify:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(749): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(667): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\AdmAuth.php(122): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+10 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+11 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-14 01:29:51 --> mysqli_sql_exception: Duplicate entry '1808051201920006' for key 'userktp' in C:\xampp\htdocs\rsp\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\rsp\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `us...', 0)
+#1 C:\xampp\htdocs\rsp\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `us...')
+#2 C:\xampp\htdocs\rsp\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `us...')
+#3 C:\xampp\htdocs\rsp\system\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#4 C:\xampp\htdocs\rsp\system\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\rsp\system\BaseModel.php(749): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\rsp\system\Model.php(667): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\rsp\app\Controllers\AdmAuth.php(122): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\rsp\system\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+#9 C:\xampp\htdocs\rsp\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+#10 C:\xampp\htdocs\rsp\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\rsp\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-11-14 01:29:51 --> Duplicate entry '1808051201920006' for key 'userktp'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (\'sutinoadfad@gmail.com\', \'sutino\', \'1808051201920006\', \'40bd001563085fc35165329ea1ff5c5ecbdbbeef\', 2, \'Progres\', \'2022-11-14 01:29:51\', \'2022-11-14 01:29:51\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (\'sutinoadfad@gmail.com\', \'sutino\', \'1808051201920006\', \'40bd001563085fc35165329ea1ff5c5ecbdbbeef\', 2, \'Progres\', \'2022-11-14 01:29:51\', \'2022-11-14 01:29:51\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (\'sutinoadfad@gmail.com\', \'sutino\', \'1808051201920006\', \'40bd001563085fc35165329ea1ff5c5ecbdbbeef\', 2, \'Progres\', \'2022-11-14 01:29:51\', \'2022-11-14 01:29:51\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (:userid:, :usernama:, :userktp:, :userpassword:, :userlevel:, :userverify:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(749): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(667): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\AdmAuth.php(122): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+10 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+11 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-14 01:29:54 --> mysqli_sql_exception: Duplicate entry '1808051201920006' for key 'userktp' in C:\xampp\htdocs\rsp\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\rsp\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `us...', 0)
+#1 C:\xampp\htdocs\rsp\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `us...')
+#2 C:\xampp\htdocs\rsp\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `us...')
+#3 C:\xampp\htdocs\rsp\system\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#4 C:\xampp\htdocs\rsp\system\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\rsp\system\BaseModel.php(749): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\rsp\system\Model.php(667): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\rsp\app\Controllers\AdmAuth.php(122): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\rsp\system\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+#9 C:\xampp\htdocs\rsp\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+#10 C:\xampp\htdocs\rsp\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\rsp\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-11-14 01:29:54 --> Duplicate entry '1808051201920006' for key 'userktp'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (\'sutinoadfad@gmail.com\', \'sutino\', \'1808051201920006\', \'40bd001563085fc35165329ea1ff5c5ecbdbbeef\', 2, \'Progres\', \'2022-11-14 01:29:54\', \'2022-11-14 01:29:54\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (\'sutinoadfad@gmail.com\', \'sutino\', \'1808051201920006\', \'40bd001563085fc35165329ea1ff5c5ecbdbbeef\', 2, \'Progres\', \'2022-11-14 01:29:54\', \'2022-11-14 01:29:54\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (\'sutinoadfad@gmail.com\', \'sutino\', \'1808051201920006\', \'40bd001563085fc35165329ea1ff5c5ecbdbbeef\', 2, \'Progres\', \'2022-11-14 01:29:54\', \'2022-11-14 01:29:54\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (:userid:, :usernama:, :userktp:, :userpassword:, :userlevel:, :userverify:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(749): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(667): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\AdmAuth.php(122): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+10 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+11 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-14 01:31:15 --> mysqli_sql_exception: Duplicate entry '1808051201920006' for key 'userktp' in C:\xampp\htdocs\rsp\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\rsp\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `us...', 0)
+#1 C:\xampp\htdocs\rsp\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `us...')
+#2 C:\xampp\htdocs\rsp\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `us...')
+#3 C:\xampp\htdocs\rsp\system\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#4 C:\xampp\htdocs\rsp\system\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\rsp\system\BaseModel.php(749): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\rsp\system\Model.php(667): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\rsp\app\Controllers\AdmAuth.php(122): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\rsp\system\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+#9 C:\xampp\htdocs\rsp\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+#10 C:\xampp\htdocs\rsp\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\rsp\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-11-14 01:31:15 --> Duplicate entry '1808051201920006' for key 'userktp'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (\'sutinos@gmail.com\', \'sutino\', \'1808051201920006\', \'40bd001563085fc35165329ea1ff5c5ecbdbbeef\', 2, \'Progres\', \'2022-11-14 01:31:15\', \'2022-11-14 01:31:15\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (\'sutinos@gmail.com\', \'sutino\', \'1808051201920006\', \'40bd001563085fc35165329ea1ff5c5ecbdbbeef\', 2, \'Progres\', \'2022-11-14 01:31:15\', \'2022-11-14 01:31:15\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (\'sutinos@gmail.com\', \'sutino\', \'1808051201920006\', \'40bd001563085fc35165329ea1ff5c5ecbdbbeef\', 2, \'Progres\', \'2022-11-14 01:31:15\', \'2022-11-14 01:31:15\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (:userid:, :usernama:, :userktp:, :userpassword:, :userlevel:, :userverify:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(749): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(667): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\AdmAuth.php(122): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+10 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+11 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 01:32:48 --> Undefined array key "userktp"
+in APPPATH\Controllers\AdmAuth.php on line 109.
+ 1 APPPATH\Controllers\AdmAuth.php(109): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "userktp"', 'APPPATH\\Controllers\\AdmAuth.php', 109)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 01:33:23 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\AdmAuth.php on line 109.
+ 1 APPPATH\Controllers\AdmAuth.php(109): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'APPPATH\\Controllers\\AdmAuth.php', 109)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 01:33:58 --> Call to undefined method App\Models\ModelUser::getResultArray
+in SYSTEMPATH\Model.php on line 774.
+ 1 APPPATH\Controllers\AdmAuth.php(107): CodeIgniter\Model->__call('getResultArray', [])
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-14 02:37:35 --> mysqli_sql_exception: Duplicate entry '1808051201920006' for key 'userktp' in C:\xampp\htdocs\rsp\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\rsp\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `us...', 0)
+#1 C:\xampp\htdocs\rsp\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `us...')
+#2 C:\xampp\htdocs\rsp\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `us...')
+#3 C:\xampp\htdocs\rsp\system\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#4 C:\xampp\htdocs\rsp\system\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\rsp\system\BaseModel.php(749): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\rsp\system\Model.php(667): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\rsp\app\Controllers\AdmAuth.php(114): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\rsp\system\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+#9 C:\xampp\htdocs\rsp\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+#10 C:\xampp\htdocs\rsp\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\rsp\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-11-14 02:37:35 --> Duplicate entry '1808051201920006' for key 'userktp'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (\'sutinos@gmail.com\', \'sutino\', \'1808051201920006\', \'40bd001563085fc35165329ea1ff5c5ecbdbbeef\', 2, \'Progres\', \'2022-11-14 02:37:35\', \'2022-11-14 02:37:35\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (\'sutinos@gmail.com\', \'sutino\', \'1808051201920006\', \'40bd001563085fc35165329ea1ff5c5ecbdbbeef\', 2, \'Progres\', \'2022-11-14 02:37:35\', \'2022-11-14 02:37:35\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (\'sutinos@gmail.com\', \'sutino\', \'1808051201920006\', \'40bd001563085fc35165329ea1ff5c5ecbdbbeef\', 2, \'Progres\', \'2022-11-14 02:37:35\', \'2022-11-14 02:37:35\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `user` (`userid`, `usernama`, `userktp`, `userpassword`, `userlevel`, `userverify`, `created_at`, `updated_at`) VALUES (:userid:, :usernama:, :userktp:, :userpassword:, :userlevel:, :userverify:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(749): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(667): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\AdmAuth.php(114): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+10 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+11 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 02:40:22 --> Allowed fields must be specified for model: App\Models\ModelCekKtp
+in SYSTEMPATH\BaseModel.php on line 1160.
+ 1 SYSTEMPATH\BaseModel.php(1160): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\ModelCekKtp')
+ 2 SYSTEMPATH\BaseModel.php(724): CodeIgniter\BaseModel->doProtectFields([...])
+ 3 SYSTEMPATH\Model.php(667): CodeIgniter\BaseModel->insert([...], true)
+ 4 APPPATH\Controllers\AdmAuth.php(123): CodeIgniter\Model->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+ 6 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 02:40:37 --> Allowed fields must be specified for model: App\Models\ModelCekKtp
+in SYSTEMPATH\BaseModel.php on line 1160.
+ 1 SYSTEMPATH\BaseModel.php(1160): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\ModelCekKtp')
+ 2 SYSTEMPATH\BaseModel.php(724): CodeIgniter\BaseModel->doProtectFields([...])
+ 3 SYSTEMPATH\Model.php(667): CodeIgniter\BaseModel->insert([...], true)
+ 4 APPPATH\Controllers\AdmAuth.php(123): CodeIgniter\Model->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->daftarsimpan()
+ 6 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 04:11:13 --> Cannot redeclare App\Controllers\AdmAuth::login()
+in APPPATH\Controllers\AdmAuth.php on line 147.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2022-11-14 04:11:21 --> Cannot redeclare App\Controllers\AdmAuth::login()
+in APPPATH\Controllers\AdmAuth.php on line 147.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2022-11-14 04:12:36 --> Undefined variable $userid
+in APPPATH\Views\admauth\login.php on line 59.
+ 1 APPPATH\Views\admauth\login.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $userid', 'APPPATH\\Views\\admauth\\login.php', 59)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\admauth\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('admauth/login', [], true)
+ 5 APPPATH\Controllers\AdmAuth.php(14): view('admauth/login')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->login()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-14 04:27:56 --> mysqli_sql_exception: Table 'rsp.modellevels' doesn't exist in C:\xampp\htdocs\rsp\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\rsp\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\rsp\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\rsp\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\rsp\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\rsp\system\Model.php(182): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\rsp\system\BaseModel.php(524): CodeIgniter\Model->doFind(true, '1')
+#6 C:\xampp\htdocs\rsp\app\Controllers\AdmAuth.php(202): CodeIgniter\BaseModel->find('1')
+#7 C:\xampp\htdocs\rsp\system\CodeIgniter.php(927): App\Controllers\AdmAuth->cekUser()
+#8 C:\xampp\htdocs\rsp\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+#9 C:\xampp\htdocs\rsp\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\rsp\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-11-14 04:27:56 --> Table 'rsp.modellevels' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *
+FROM `modellevels`
+WHERE `modellevels`.`id` = \'1\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `modellevels`
+WHERE `modellevels`.`id` = \'1\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `modellevels`
+WHERE `modellevels`.`id` = \'1\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `modellevels`
+WHERE `modellevels`.`id` = :modellevels.id:', [...], false)
+ 5 SYSTEMPATH\Model.php(182): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(524): CodeIgniter\Model->doFind(true, '1')
+ 7 APPPATH\Controllers\AdmAuth.php(202): CodeIgniter\BaseModel->find('1')
+ 8 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\AdmAuth->cekUser()
+ 9 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmAuth))
+10 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
